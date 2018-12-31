@@ -15,7 +15,7 @@ contract firstClassContract{
 
     function getStringVariable() public view returns (string memory){
         return stringVariable;
-        //test
+        //test visual studio version control
     }
 
 }
